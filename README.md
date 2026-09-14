@@ -33,3 +33,6 @@ Dashboard build-time variables (set in Vercel):
 - `dashboard/` — Front-end application.
 - `Dockerfile` — Container definition for the poller worker.
 - `requirements.txt` — Python dependencies.
+
+Dashboard: https://ratecardsentinel.vokrix.co
+Vercel: ratecardsentinel
