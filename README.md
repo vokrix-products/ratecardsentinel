@@ -36,3 +36,4 @@ Dashboard build-time variables (set in Vercel):
 
 Dashboard: https://ratecardsentinel.vokrix.co
 Vercel: ratecardsentinel
+Railway: ratecardsentinel
