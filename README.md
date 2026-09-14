@@ -40,3 +40,5 @@ Railway: ratecardsentinel
 Cloudflare: ratecardsentinel.vokrix.co
 
 Billing: price_1UFNq72c9uGCcgMSi4y92sh4
+
+Landing: https://vokrix.co/ratecardsentinel
